@@ -55,6 +55,7 @@ afficherDossierRecursif(dossierPrincipal)
 
 Indice 🤫
 Dans l’objet, un objet de type “dossier” a une propriété “contenu” alors qu’un fichier n’en a pas …
+
 Etape 3
 
 Complète la fonction pour afficher les dossiers de troisième niveau (ex: les dossiers “Pico 8” et “Dataviz” sont des dossiers de troisième niveau car ils se trouvent dans un dossier “Projets collectifs, lui-même dans le dossier “Ada”).
