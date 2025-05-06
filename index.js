@@ -36,3 +36,14 @@ const dossierPrincipal = {
       },
     ],
   }
+
+  function afficherDossier(dossier){
+    console.log("🗂️ " + dossier.nom)
+  }
+
+  afficherDossier(dossierPrincipal)
+
+
+  function afficherDossierIteratif(dossier){
+    
+  }
