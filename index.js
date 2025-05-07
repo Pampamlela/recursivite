@@ -125,3 +125,4 @@ Quels sont les avantages et inconvénients de chaque manière d’écrire ?*/
 
 /*=> dans ce cas la fonction itérative à des limites 
 et la fonction recursive est plus courte et plus simple à écrire.*/
+
